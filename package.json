@@ -3,7 +3,7 @@
   "version": "0.5.1",
   "description": "",
   "dependencies": {
-    "babel": "4.7.1",
+    "babel": "6.0.0",
     "body-parser": "1.10.2",
     "commander": "2.6.0",
     "debug": "2.1.1",
